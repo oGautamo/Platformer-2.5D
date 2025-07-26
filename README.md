@@ -33,7 +33,7 @@ Welcome to **Mousey's Maze**, a charming and chaotic 2.5D platformer built in Un
 | Move Left/Right | A / D         |
 | Jump            | Space         |
 | Dash (Planned)  | Left Shift    |
-| Interact        | E             |
+| Interact(Planned) |  E          |
 
 > Built using Enhanced Input — rebindable via Unreal's Input Mapping Context.
 
